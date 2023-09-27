@@ -1,2 +1,2 @@
-# new_componente_js
+# new_component_js
 componentes com propriedades
